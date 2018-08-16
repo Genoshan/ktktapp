@@ -1,0 +1,7 @@
+{
+  "name": "ktktapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
